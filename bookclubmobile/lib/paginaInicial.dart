@@ -1,3 +1,4 @@
+import 'package:bookclubmobile/homepagi.dart';
 import 'package:bookclubmobile/telacadastro.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
@@ -10,6 +11,24 @@ class PaginaInicial extends StatefulWidget {
 }
 
 class _PaginaInicialState extends State<PaginaInicial> {
+
+  final TextEditingController emailController = TextEditingController();
+  final TextEditingController senhaController = TextEditingController();
+
+  @override
+  void dispose() {
+    // limpa os campos
+    emailController.clear();
+    senhaController.clear();
+
+    // libera memória
+    emailController.dispose();
+    senhaController.dispose();
+
+    super.dispose();
+  }
+
+
 
   bool lembrarMe = false;
 
@@ -63,6 +82,7 @@ class _PaginaInicialState extends State<PaginaInicial> {
 
                   // CAMPO EMAIL
                   TextField(
+                    controller: emailController,
                     keyboardType: TextInputType.emailAddress,
 
                     decoration: InputDecoration(
@@ -99,7 +119,9 @@ class _PaginaInicialState extends State<PaginaInicial> {
 
                   // CAMPO SENHA
                   TextField(
+                    controller: senhaController,
                     obscureText: true,
+                    autofillHints: const [],
                     keyboardType: TextInputType.visiblePassword,
 
                     decoration: InputDecoration(
@@ -132,33 +154,6 @@ class _PaginaInicialState extends State<PaginaInicial> {
                     ),
                   ),
 
-                  const SizedBox(height: 10),
-
-                  // CHECKBOX
-                  Row(
-                    children: [
-
-                      Checkbox(
-                        value: lembrarMe,
-
-                        onChanged: (value) {
-                          setState(() {
-                            lembrarMe = value!;
-                          });
-                        },
-                      ),
-
-                      const Text(
-                        "Lembrar de mim",
-
-                        style: TextStyle(
-                          fontSize: 12,
-                          color: Colors.black54,
-                        ),
-                      ),
-                    ],
-                  ),
-
                   const SizedBox(height: 25),
 
                   // BOTÃO LOGIN
@@ -168,6 +163,10 @@ class _PaginaInicialState extends State<PaginaInicial> {
 
                     child: ElevatedButton(
                       onPressed: () {
+                        emailController.clear();
+                        senhaController.clear();
+
+                        Navigator.push(context, MaterialPageRoute(builder: (context) => Homepagi()));
 
                         ScaffoldMessenger.of(context).showSnackBar(
                           const SnackBar(
