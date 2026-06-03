@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c39e3dbb-55c6-48d0-8a1c-af86325aecd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/homepagi.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookclubmobile/lib/paginaInicial.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/lib/paginaInicial.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookclubmobile/lib/telacadastro.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/lib/telacadastro.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/lib/homepagi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/lib/homepagi.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
