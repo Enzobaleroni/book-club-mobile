@@ -250,6 +250,37 @@ class _TelacadastroState extends State<Telacadastro> {
                                     MaterialPageRoute(builder: (context) => const PaginaInicial(),
                                     )
                                 );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                 ScaffoldMessenger.of(context).showSnackBar(
                                   const SnackBar(
                                     content: Text("Faça seu Login"),

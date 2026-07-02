@@ -280,7 +280,7 @@ class _HomepagiState extends State<Homepagi> {
               const SizedBox(height: 15),
 
               livroCard(
-                imagem: 'assets/livro1.jpg',
+                imagem: 'assets/imagem.png',
                 titulo:
                 'Como convencer alguém em 90 segundos',
                 autor: 'Nicholas Boothman',
@@ -289,7 +289,7 @@ class _HomepagiState extends State<Homepagi> {
               ),
 
               livroCard(
-                imagem: 'assets/livro2.jpg',
+                imagem: 'assets/imagem-da-persuasão.jpg',
                 titulo: 'As armas da persuasão',
                 autor: 'Robert B. Cialdini',
                 preco: 'R\$ 87,33',

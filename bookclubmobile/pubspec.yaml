@@ -61,6 +61,8 @@ flutter:
 
   assets:
     - assets/logo_book2.png
+    - assets/imagem.png
+    - assets/imagem-da-persuasão.jpg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
