@@ -1,4 +1,4 @@
-import 'package:bookclubmobile/paginaInicial.dart';
+import 'package:bookclubmobile/BookClub.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: .fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const Paginainicial(),
+      home: const BookClubApp(),
     );
   }
 }
