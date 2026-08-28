@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c39e3dbb-55c6-48d0-8a1c-af86325aecd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/imagem-da-persuasão.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/imagem.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookclubmobile/lib/homepagi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/lib/homepagi.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookclubmobile/lib/telacadastro.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/lib/telacadastro.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookclubmobile/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +56,7 @@
     &quot;git-widget-placeholder&quot;: &quot;branch-vieira&quot;,
     &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/matheus.1935/Desktop/MatheusVieira/book-club-mobile/bookclubmobile/assets&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/matheus.1935/OneDrive - Senac PR/Matheus Vieira&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
@@ -89,5 +84,16 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.bat" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/bookclubmobile/lib/telacadastro.dart</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
