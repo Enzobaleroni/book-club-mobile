@@ -5,8 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c39e3dbb-55c6-48d0-8a1c-af86325aecd3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/database/database_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/models/livro.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/carrinho_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/detalhes_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/digitarcodigo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/homepagi.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/pagamento_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/paginaInicial.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/recuperarsenha.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/telacadastro.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/tema.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/assets/imagem-da-persuasão.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/assets/imagem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/lib/homepagi.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/lib/paginaInicial.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/lib/telacadastro.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/test/widget_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +83,7 @@
     &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;branch-vieira&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/matheus.1935/OneDrive - Senac PR/Matheus Vieira&quot;,
@@ -63,6 +93,11 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\matheus.1935\Desktop\MatheusVieira\book-club-mobile\bookclubmobile\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matheus.1935\Desktop\MatheusVieira\book-club-mobile\bookclubmobile\lib" />
+      <recent name="C:\Users\matheus.1935\Desktop\MatheusVieira\book-club-mobile\bookclubmobile\assets" />
+      <recent name="C:\Users\matheus.1935\Desktop\MatheusVieira\book-club-mobile\bookclubmobile\lib\pages" />
     </key>
   </component>
   <component name="RunManager">
@@ -84,16 +119,5 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.bat" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="Dart">
-          <url>file://$PROJECT_DIR$/bookclubmobile/lib/telacadastro.dart</url>
-          <line>10</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
