@@ -4,7 +4,39 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c39e3dbb-55c6-48d0-8a1c-af86325aecd3" name="Changes" comment="" />
+    <list default="true" id="c39e3dbb-55c6-48d0-8a1c-af86325aecd3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/assets/livro8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/database/database_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/models/livro.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/carrinho_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/detalhes_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/digitarcodigo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/homepagi.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/pagamento_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/paginaInicial.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/recuperarsenha.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/telacadastro.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookclubmobile/lib/pages/tema.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/assets/imagem-da-persuasão.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/assets/imagem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/lib/homepagi.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/lib/paginaInicial.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/lib/telacadastro.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookclubmobile/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bookclubmobile/test/widget_test.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,36 +55,58 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3DlJvzpj5Em2ZwWuLzKCJQlIOwP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flutter.bookclubmobile.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;branch-vieira&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/matheus.1935/OneDrive - Senac PR/Matheus Vieira&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matheus.1935\Desktop\MatheusVieira\book-club-mobile\bookclubmobile\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matheus.1935\Desktop\MatheusVieira\book-club-mobile\bookclubmobile\lib" />
+      <recent name="C:\Users\matheus.1935\Desktop\MatheusVieira\book-club-mobile\bookclubmobile\assets" />
+      <recent name="C:\Users\matheus.1935\Desktop\MatheusVieira\book-club-mobile\bookclubmobile\lib\pages" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="bookclubmobile" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/bookclubmobile/lib/main.dart" />
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c39e3dbb-55c6-48d0-8a1c-af86325aecd3" name="Changes" comment="" />
@@ -62,5 +116,8 @@
       <updated>1778850957328</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bat" />
   </component>
 </project>
